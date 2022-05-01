@@ -2,7 +2,6 @@
 #include <ctime>
 #include <iostream>
 #include "textgen.h"
-int main()
-{
+int main() {
 return 1;
 }
